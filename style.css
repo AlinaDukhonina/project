@@ -1,0 +1,249 @@
+.skz{
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+
+.hob{
+    background-color: #fff67b;
+    text-align: center;
+    color: darkred;
+}
+
+.gi{
+    background-color: #BAACC7;
+    text-align: center;
+    color: lightgoldenrodyellow;
+}
+
+
+.box{
+    width: 30%;
+    margin: 2%;
+}
+
+
+.indbody{
+    display: flex;
+}
+
+
+.indimg{
+    width: 90%;
+    margin: 5%;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.inda{
+    /* border: 1px solid white; */
+    border-radius: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+
+.indexa{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.buttonskz{
+    border: 1px solid white;
+    color: white;
+}
+
+
+.buttonhob{
+    border: 1px solid darkred;
+    color: darkred;
+}
+
+
+.buttongi{
+    border: 1px solid lightgoldenrodyellow;
+    color: lightgoldenrodyellow;
+}
+
+
+
+
+
+
+
+
+
+
+.imgskz{
+    width: 30%;
+}
+
+
+.skzh{
+    color: white;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+
+.boskz{
+    background-color: rgb(197, 197, 197);
+}
+
+
+.htmlskz{
+    background-color: rgb(31, 31, 31);
+}
+
+
+.boxskz{
+    display: flex;
+    padding: 10px;
+}
+
+
+.skz1{
+    font-size: 130%;
+}
+
+
+.skz2{
+    font-size: 110%;
+}
+
+
+.skz3{
+    font-size: 170%;
+}
+
+
+p{
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+.bbh{
+    height: 95%;
+    border: 1px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+
+.hobh{
+    color: white;
+    background-color: rgb(43, 37, 0);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+
+.hobhtml{
+    background-color: rgb(43, 37, 0);
+}
+
+
+.bohob{
+    background-color: rgb(254, 255, 188);
+}
+
+
+.imghob1{
+    width: 22.5%;
+}
+
+
+.imghob2{
+    width: 28.5%;
+}
+
+
+.imghob3{
+    width: 30%;
+}
+
+
+.phob{
+    font-size: 130%;
+}
+
+
+
+
+
+
+
+
+
+
+.imggi1{
+    width: 61.75%;
+    margin: 1%;
+}
+
+
+.imggi2{
+    width: 28.25%;
+    margin: 1;
+}
+
+
+.bbh{
+    height: 95%;
+    border: 1px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+
+.gih{
+    color: white;
+    background-color: rgb(1, 31, 0);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+
+.gihtml{
+    background-color: rgb(1, 31, 0);
+}
+
+
+.bogi{
+    background-color: rgb(202, 255, 202);
+}
+
+
+.gip{
+    font-size: 130%;
+}
