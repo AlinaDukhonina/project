@@ -65,9 +65,21 @@ a{
 }
 
 
+.buttonskz:hover {
+    color: rgb(57, 57, 57);
+    border: 1px solid rgb(57, 57, 57);
+}
+
+
 .buttonhob{
     border: 1px solid darkred;
     color: darkred;
+}
+
+
+.buttonhob:hover{
+    border: 1px solid rgb(188, 0, 0);
+    color: rgb(188, 0, 0);
 }
 
 
@@ -75,6 +87,31 @@ a{
     border: 1px solid lightgoldenrodyellow;
     color: lightgoldenrodyellow;
 }
+
+.buttongi:hover{
+    border: 1px solid rgb(216, 216, 126);
+    color: rgb(216, 216, 126);
+}
+
+
+.winbut{
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 5%;
+    background-color: darkgray;
+    color: white;
+}
+
+.winbut:hover{
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 5%;
+    background-color: rgb(64, 64, 64);
+    color: rgb(189, 189, 189);
+}
+
 
 
 
@@ -151,6 +188,16 @@ p{
     padding-right: 20px;
     border-radius: 20px;
     color: white;
+}
+
+
+.bbh:hover{
+    height: 95%;
+    border: 1px solid rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: black;
 }
 
 
